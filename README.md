@@ -1,6 +1,8 @@
 
 # Overwatch Issues
 
-This repo exists to gather issues from clients of the Distributive Overwatch project. You may report any issues you have with the Overwatch service to [our issues page](https://github.com/Distributed-Compute-Labs/OverwatchIssues/issues). Please tell us as much as you can about the context of the issue and whatever happened prior to a bug or crash, including any relavent code or log snippets. This information is crucial to recreating the issue and developing a solution. Please attempt to avoid filing duplicates of open or closed items when possible.
+This repository exists to collect issues encountered by the users of the Distributive Corp. Overwatch project.
 
-We at the Distributive team appreciate your feedback and thank you for helping us make our product better!
+Please report any issues encountered to [our issues page](https://github.com/Distributed-Compute-Labs/OverwatchIssues/issues). When logging an issue, please include as much detail as possible regarding the context of the observed behaviour and the actions taken prior to a bug or crash, including any relevent code or log snippets. This information is crucial to recreating the issue and will aid the team in developing a solution. Before filing, it is recommended you browse the existing tickets to see if the issue has already been reported. If you find a ticket that describes your issue, leave a comment indicating you also experienced the noted behaviour.
+
+We at Distributive appreciate your feedback and thank you for helping us make our product better!
